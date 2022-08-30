@@ -5,3 +5,5 @@ Iniciar o repositório
 ```
 git init
 ```
+
+Esta alteração foi feita diretamente no github
